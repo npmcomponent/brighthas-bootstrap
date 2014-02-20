@@ -26,7 +26,7 @@
  * limitations under the License.
  * ======================================================================== */
 
-var jQuery =  require("jquery");
+var jQuery =  require('component-jquery');
 
 +function ($) { "use strict";
 

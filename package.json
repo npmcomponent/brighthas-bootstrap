@@ -1,0 +1,14 @@
+{
+  "name": "brighthas-bootstrap",
+  "description": "bootstrap 3",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "dist/js/bootstrap.js",
+  "styles": [
+    "dist/bootstrap.css"
+  ],
+  "dependencies": {
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git"
+  },
+  "license": "MIT"
+}
